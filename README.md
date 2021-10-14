@@ -6,4 +6,14 @@ This site have four Sections:
 -About
 -WORKS
 -CONTACT
--GITHUB
+-RESUME
+
+## Deployed Link:
+
+[Click Here!](https://vanjungthawng.github.io/my-portfolio-site/)
+
+## Mock-Up
+
+The following image shows the website appearance:
+
+![](./assets/images/portfolio-screenshot.png)
